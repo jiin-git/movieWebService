@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'GangwonEduPowerExtraBoldA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduPowerExtraBoldA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.movie_container {
+    display: flex; 
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.movie_contents {
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 1350px;
+}
+
+.movie_title_container {
+    text-align: center;
+}
+
+.movie_title {
+    padding: 5px;
+    font-size: 40px;
+    font-family: 'GangwonEduPowerExtraBoldA';
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
