@@ -1,6 +1,6 @@
 # Top 20 Popular Movies (2022)
 
-이 프로젝트는 TMDB API를 참고하여 만들었습니다.
+이 프로젝트는 `TMDB API`를 참고하여 만들었습니다.
 `TMDB API`에 대해 자세히 알고싶다면 해당 사이트를 참고하세요.
 (https://developers.themoviedb.org/3/getting-started/introduction)
 
